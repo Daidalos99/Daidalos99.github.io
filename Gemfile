@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll-theme-hydejack", "~> 4.1"
+gem "jekyll", "~> 4.1"
 
 gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
